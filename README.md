@@ -1,6 +1,6 @@
 ESP32 ESP-IDF Wifi connection code modified for my personal use. Based off the Espressif WiFi Station Example: https://github.com/espressif/esp-idf/tree/v4.4.1/examples/wifi/getting_started/station
 
-Set the WiFI SSID and Password in the wifi.c file.
+Set your WiFI SSID and Password in the wifi.c file.
 
 ### Build and Flash
 
