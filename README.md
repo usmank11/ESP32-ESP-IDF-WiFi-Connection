@@ -1,10 +1,6 @@
-ESP32 ESP-IDF Wifi connection code modified for my personal use. Based off the Espressif WiFi Station Example. https://github.com/espressif/esp-idf/tree/v4.4.1/examples/wifi/getting_started/station
+ESP32 ESP-IDF Wifi connection code modified for my personal use. Based off the Espressif WiFi Station Example: https://github.com/espressif/esp-idf/tree/v4.4.1/examples/wifi/getting_started/station
 
-Open the project configuration menu (`idf.py menuconfig`).
-
-* Set the Wi-Fi configuration.
-    * Set `WiFi SSID`.
-    * Set `WiFi Password`.
+Set the WiFI SSID and Password in the wifi.c file.
 
 ### Build and Flash
 
