@@ -1,3 +1,4 @@
+ESP32 ESP-IDF Wifi connection code for my personal use :). Based off the Espressif WiFi Station Example. https://github.com/espressif/esp-idf/tree/v4.4.1/examples/wifi/getting_started/station
 
 Open the project configuration menu (`idf.py menuconfig`).
 
